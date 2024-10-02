@@ -1,0 +1,13 @@
+{
+	"id": "f704f2b2-7904-4b11-b9bc-2591a38f2854",
+	"name": "Droneshield-PetStore-github",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://petstore.swagger.io/v2",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment"
+}
