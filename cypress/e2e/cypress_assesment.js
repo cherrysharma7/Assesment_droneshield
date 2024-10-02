@@ -20,7 +20,7 @@ describe('Login Session Management', () => {
      cy.url().should('contain','inventory')
   })
  
-  it('Verify that item is in the cart', () => {
+  it('Verify that item get selected in the cart', () => {
     cy.visit("https://www.saucedemo.com/")
      cy.get('[data-test="username"]').type('standard_user')
      cy.get('input[name=password]').type("secret_sauce")
