@@ -17,7 +17,7 @@ To run the API tests locally, you will need the following tools installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone 
+   git clone https://github.com/cherrysharma7/Assesment_droneshield
    ```
 2. **Navigate to the Branch**:
    Switch to the branch containing the tests:
